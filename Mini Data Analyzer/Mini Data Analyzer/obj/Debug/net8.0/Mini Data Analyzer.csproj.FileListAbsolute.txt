@@ -1,0 +1,17 @@
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Data Analyzer.csproj.AssemblyReference.cache
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Data Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Data Analyzer.AssemblyInfoInputs.cache
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Data Analyzer.AssemblyInfo.cs
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Data Analyzer.csproj.CoreCompileInputs.cache
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\bin\Debug\net8.0\Mini Data Analyzer.exe
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\bin\Debug\net8.0\Mini Data Analyzer.deps.json
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\bin\Debug\net8.0\Mini Data Analyzer.runtimeconfig.json
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\bin\Debug\net8.0\Mini Data Analyzer.dll
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\bin\Debug\net8.0\Mini Data Analyzer.pdb
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\bin\Debug\net8.0\Bogus.dll
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Dat.CB52B703.Up2Date
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Data Analyzer.dll
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\refint\Mini Data Analyzer.dll
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Data Analyzer.pdb
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\Mini Data Analyzer.genruntimeconfig.cache
+C:\Web Api .Net Proje\Mini Data Analyzer\Mini Data Analyzer\obj\Debug\net8.0\ref\Mini Data Analyzer.dll

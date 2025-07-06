@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web Api .Net Proje\\Mini Data Analyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80EC95D2-A072-4B61-8A0A-832C48238CF9}|Mini Data Analyzer\\Mini Data Analyzer.csproj|c:\\web api .net proje\\mini data analyzer\\mini data analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EC95D2-A072-4B61-8A0A-832C48238CF9}|Mini Data Analyzer\\Mini Data Analyzer.csproj|solutionrelative:mini data analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EC95D2-A072-4B61-8A0A-832C48238CF9}|Mini Data Analyzer\\Mini Data Analyzer.csproj|c:\\web api .net proje\\mini data analyzer\\mini data analyzer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EC95D2-A072-4B61-8A0A-832C48238CF9}|Mini Data Analyzer\\Mini Data Analyzer.csproj|solutionrelative:mini data analyzer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Web Api .Net Proje\\Mini Data Analyzer\\Mini Data Analyzer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Mini Data Analyzer\\Models\\User.cs",
+              "ToolTip": "C:\\Web Api .Net Proje\\Mini Data Analyzer\\Mini Data Analyzer\\Models\\User.cs",
+              "RelativeToolTip": "Mini Data Analyzer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:37:32.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web Api .Net Proje\\Mini Data Analyzer\\Mini Data Analyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Mini Data Analyzer\\Program.cs",
+              "ToolTip": "C:\\Web Api .Net Proje\\Mini Data Analyzer\\Mini Data Analyzer\\Program.cs",
+              "RelativeToolTip": "Mini Data Analyzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:32:53.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
