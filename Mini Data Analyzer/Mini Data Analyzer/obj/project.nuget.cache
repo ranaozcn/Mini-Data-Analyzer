@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2GuauQAg4+I=",
+  "success": true,
+  "projectFilePath": "C:\\Web Api .Net Proje\\Mini Data Analyzer\\Mini Data Analyzer\\Mini Data Analyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
